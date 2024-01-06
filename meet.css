@@ -1,0 +1,21 @@
+header{
+  max-height: 100px;
+}
+.meet-img{
+  width: 100px;
+}
+.user-img{
+  max-width: 50px;
+}
+.section-left-side,.section-right-side{
+  max-width: 30%;
+}
+.caroussel img{
+  max-width: 300px;
+}
+.activated{
+display: block;
+}
+.non-activated{
+display: none;
+}

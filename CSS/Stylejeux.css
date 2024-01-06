@@ -1,0 +1,61 @@
+*{
+  font-family: Verdana;
+}
+ 
+#title {
+  font-family: Papyrus;
+  font-weight: bold;
+  font-size: 20px;
+  text-align: center;
+  color: blue;
+}
+ 
+#title > em {
+  font-size: xx-large;
+  text-transform: uppercase;
+}
+ 
+.Page-header {
+  float: right;
+}
+ 
+ul#importance {
+  list-style-type: none;
+}
+ 
+ul#importance img {
+  width: 20px;
+}
+ 
+a:visited {
+  color: red;
+}
+ 
+#jeux-header {
+  display: flex;
+}
+#jeux-header img {
+  width: 100px;
+}
+ 
+.alpha-list {
+  list-style-type: lower-alpha;
+}
+ 
+.alpha-list > li:last-child > ul {
+  list-style-type: square;
+  font-size: 12px;
+  font-weight: bold;
+}
+ 
+.c1 {
+  font-weight: bold;
+  color: blue;
+  font-family: cursive;
+}
+ 
+.c2 {
+  font-style: italic;
+  color: green;
+}
+ 
